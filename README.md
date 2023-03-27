@@ -1,7 +1,7 @@
 
 <h1>Eddie Medrado</h1>
 
-<img src="https://user-images.githubusercontent.com/100213506/227987748-9c3616a4-1282-4ce7-9ccb-c4bf9d3a87b7.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/100213506/227987748-9c3616a4-1282-4ce7-9ccb-c4bf9d3a87b7.gif" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 
 ### About me
