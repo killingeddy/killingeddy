@@ -25,7 +25,5 @@ I am an 18yo Brazilian Full-Stack focused on frontend and mobile developer and s
 </p>
 
 ---
-[![Eddie's stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eduiseddie&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
 ![gif](https://user-images.githubusercontent.com/100213506/227987383-374ae5c9-1dc0-41f6-8a82-247e1e8c1036.gif)
