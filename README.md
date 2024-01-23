@@ -5,7 +5,7 @@
 
 ### About me
 
-I am an 19yo Brazilian Full-Stack focused on frontend and mobile developer and student of Multiplataform Software Development.
+I'm a 19-year-old Brazilian Full-Stack developer with a strong focus on frontend and mobile development. Currently, I'm a student of Multiplatform Software Development, eager to expand my skills and contribute to innovative projects. Passionate about crafting user-friendly interfaces and creating engaging mobile experiences. Let's code and build something amazing together! 🚀
 
 ---
 ### Languages and Tools
